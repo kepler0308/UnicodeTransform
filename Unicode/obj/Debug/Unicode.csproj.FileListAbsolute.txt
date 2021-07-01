@@ -1,0 +1,9 @@
+E:\Test\C#\Unicode\bin\Debug\Unicode.exe
+E:\Test\C#\Unicode\bin\Debug\Unicode.pdb
+E:\Test\C#\Unicode\obj\Debug\Unicode.csproj.AssemblyReference.cache
+E:\Test\C#\Unicode\obj\Debug\Unicode.Form1.resources
+E:\Test\C#\Unicode\obj\Debug\Unicode.Properties.Resources.resources
+E:\Test\C#\Unicode\obj\Debug\Unicode.csproj.GenerateResource.cache
+E:\Test\C#\Unicode\obj\Debug\Unicode.csproj.CoreCompileInputs.cache
+E:\Test\C#\Unicode\obj\Debug\Unicode.exe
+E:\Test\C#\Unicode\obj\Debug\Unicode.pdb
